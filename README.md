@@ -1,3 +1,3 @@
 # QuoteRunner Keyboard
 
-The keyboard you see at the bottom your little screen ⌨
+The little keyboard you see at the bottom your screen ⌨
